@@ -1,21 +1,16 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Git: Repositories",
+    "slug": "git-repositories",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "git"
     ],
     "duration": 0,
     "prerequisites": [
-        "",
-        ""
+        "version-control-repositories"
     ],
     "related": [
-        "",
-        ""
     ]
 }
