@@ -7,10 +7,16 @@
     "tags": [
         "git"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
         "version-control-repositories"
     ],
     "related": [
+        "github-introduction",
+        "git-commits",
+        "git-branches",
+        "git-merge",
+        "git-remotes",
+        "os-hidden-files-and-folders"
     ]
 }
