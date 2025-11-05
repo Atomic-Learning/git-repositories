@@ -12,7 +12,6 @@
         "version-control-repositories"
     ],
     "related": [
-        "github-introduction",
         "git-commits",
         "git-branches",
         "git-merge",
