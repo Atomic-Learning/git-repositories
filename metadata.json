@@ -12,7 +12,7 @@
         "version-control-repositories"
     ],
     "related": [
-        "git-adding-tracked-files",
+        "git-command-line-add",
         "git-commits",
         "git-branches",
         "git-merge",
