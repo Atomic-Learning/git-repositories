@@ -1,6 +1,7 @@
 {
     "title": "Git: Repositories",
     "slug": "git-repositories",
+    "description": "An introduction to the concept of a repository in git.",
     "authors": [
         "chris-cooling"
     ],
